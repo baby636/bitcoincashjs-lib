@@ -30,7 +30,7 @@
     "src"
   ],
   "dependencies": {
-    "bech32": "^1.1.2",
+    "bech32": "^2.0.0",
     "bigi": "^1.4.0",
     "bip66": "^1.1.0",
     "bitcoincash-ops": "Bitcoin-com/bitcoincash-ops#2.0.0",

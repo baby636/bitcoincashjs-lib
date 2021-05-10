@@ -54,7 +54,7 @@
     "coinselect": "^3.1.1",
     "dhttp": "^2.3.5",
     "minimaldata": "Bitcoin-com/minimaldata#1.2.0",
-    "mocha": "^3.1.0",
+    "mocha": "^4.0.0",
     "nyc": "^10.3.2",
     "proxyquire": "^1.8.0",
     "sinon": "^1.17.7",

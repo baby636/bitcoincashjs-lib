@@ -55,10 +55,10 @@
     "dhttp": "^2.3.5",
     "minimaldata": "Bitcoin-com/minimaldata#1.2.0",
     "mocha": "^3.1.0",
-    "nyc": "^10.3.2",
+    "nyc": "^15.0.0",
     "proxyquire": "^1.8.0",
     "sinon": "^1.17.7",
-    "standard": "^9.0.2"
+    "standard": "^16.0.0"
   },
   "license": "MIT"
 }
